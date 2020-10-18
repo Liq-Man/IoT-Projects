@@ -1,0 +1,27 @@
+1. Sign In/ Sign Up at www.thingspeak.com
+
+2. Click Apps Tab in the Top close to Channels Tab
+
+3. You will seee a list of AppNames and Boxes
+
+4. Select ThingTweet App
+
+5. Click Link Twitter Account Button
+
+6. Provide your Twitter User Name & Password 
+
+7. Click Authorize App
+
+8. Please then Click the Link saying "Back to ThingTweet"
+
+9. You could see your Twitter Account connected 
+
+10.You will find an API KEY
+
+11.Copy Paste in Project 7 Code
+
+12.Upload Code
+
+13.Once the Arduino Starts you would find the Arduino tweeting on your behalf in your twitter Account.
+
+14. Please Login to your twitter account to see your Arduino tweets

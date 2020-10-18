@@ -1,0 +1,39 @@
+1. Sign Up on www.thingspeak.com using your email id
+
+2. Make sure to click the ckeckbox saying "By signing up, you agree to the Terms of Use and Privacy Policy"
+
+3. Goto Channels and Create a New Channel
+
+4. Fill the following Details
+	1. Any Name for the channel	
+	2. Description: if you have any description like "Montioring 	   Voltage"
+	3. Field 1 Label as 'Voltage' since we are going to upload 		   voltage values
+5. Save Channel
+
+6. Saving Process might take a while.
+
+7. Please select your channel
+
+8. You would see tabs Like 
+		1.Private View 
+		2.Public View
+		3.Channel Settings
+		4.API Keys
+		5. Data Import/Export
+
+9. Click API Keys Tab 
+
+10. You will find Write API Key similar to this "7BMH83M0KARON75Z"
+
+11. Please copy paste the API Key in your Project 8 Code
+
+12. Once the Code is uploaded and the arduino starts running, 
+Arduino will upload the Voltage value in few second gaps
+
+13. Open Serial Monitor to see the process running in Arduino
+
+14. Click Private View Tab to see the graph with Voltage vs Time
+
+15. You can change the Voltage value by tuning the Potentiometer connected to the Arduino Board
+
+	
