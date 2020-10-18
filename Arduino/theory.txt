@@ -1,0 +1,9 @@
+Bluetooth protocol
+AT COMMANDS
+Android app development
+1.Serial monitor on phone
+2.add an extra led to voice program
+3.Change the voice commands
+4.use of relay to everyone
+5.add different buttons (competetion part)
+6.How to rename Bluetooth
